@@ -52,11 +52,11 @@ Console.WriteLine("The Value" + sum);
 
 
 // 5-true or false
-/*
+
 Console.Write("Enter first integer: ");
 int first = int.Parse(Console.ReadLine());
 Console.Write("Enter second integer: ");
 int second = int.Parse(Console.ReadLine());
 bool result = (first < 0 && second > 0) || (first > 0 && second < 0);
 Console.WriteLine("Result: " + result);
-*/
+
